@@ -51,4 +51,4 @@ Console.Write(sayilar1[0]); //cevap 999dur
 //sayilar2[0] = 999;   burda da diyorki sayilar2nin referans numarasinin 0. adresi 999 olsun
 //orasi 999 olunca sayilar 1imiz de ordan referans aldigi icin sayilar1[0] da 999 olmus oldu
 
-//heaptaki 101i stackde tutan kalmayinca garbage collector gelip bellekten [10,20,30] u atacak
+//heaptaki 101i stackde tutan kalmayinca garbage collector gelip bellekten [10,20,30] u atacak 
