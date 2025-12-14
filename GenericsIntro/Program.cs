@@ -6,5 +6,7 @@
 using GenericsIntro;
 
 MyList<string> isimler = new MyList<string>();  
-isimler.Add("Ahmet");                                      
+isimler.Add("Ahmet");
+
+Console.WriteLine(isimler.Length);
 
